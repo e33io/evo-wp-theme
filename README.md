@@ -15,7 +15,7 @@ a minimalistic blog theme for [WordPress](https://wordpress.org) - view a live e
 
 - Prism syntax highlighting for posted code blocks (see Note #1 below)
 
-- [Inter](https://rsms.me/inter) and [PlexMonoMod](https://git.sr.ht/~e33io/fonts/tree/main/item/PlexMonoMod) fonts
+- [Inter](https://rsms.me/inter) and [PlexMonoMod](https://github.com/e33io/fonts?tab=readme-ov-file#plexmonomod) fonts
 
 - PHP functions include:
 	- Site Icon login logo
@@ -41,4 +41,4 @@ a minimalistic blog theme for [WordPress](https://wordpress.org) - view a live e
 	- to display a specific image in the Twitter Card and Open Graph rich link previews, add a Feature Image to the post
 
 ### License
-[BSD Zero Clause License](https://git.sr.ht/~e33io/evo-wp-theme/tree/main/item/LICENSE)
+[BSD Zero Clause License](https://github.com/e33io/evo-wp-theme/blob/main/LICENSE)
