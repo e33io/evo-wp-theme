@@ -15,7 +15,7 @@ a minimalistic blog theme for [WordPress](https://wordpress.org) - view a live e
 
 - Prism syntax highlighting for posted code blocks (see Note #1 below)
 
-- [Inter](https://rsms.me/inter) and [PlexMonoMod](https://github.com/e33io/fonts?tab=readme-ov-file#plexmonomod) fonts
+- [Inter](https://rsms.me/inter) and [SovranMono](https://github.com/e33io/sovran-fonts/tree/main/SovranMono) fonts
 
 - PHP functions include:
 	- Site Icon login logo
