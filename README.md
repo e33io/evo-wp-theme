@@ -5,8 +5,6 @@ a minimalistic blog theme for [WordPress](https://wordpress.org) - view a live e
 
 ### Highlights and Details
 
-- minimalistic design
-
 - dark theme by default, light theme activated with `prefers-color-scheme: light` CSS
 
 - 2-column layout on single post, single page, search and archives pages for sidebar widgets
@@ -41,4 +39,4 @@ a minimalistic blog theme for [WordPress](https://wordpress.org) - view a live e
 	- to display a specific image in the Twitter Card and Open Graph rich link previews, add a Feature Image to the post
 
 ### License
-[BSD Zero Clause License](https://github.com/e33io/evo-wp-theme/blob/main/LICENSE)
+[The Unlicense](https://github.com/e33io/evo-wp-theme/blob/main/LICENSE)
