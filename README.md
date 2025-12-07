@@ -1,6 +1,6 @@
 # evo wp theme
 
-a minimalistic blog theme for [WordPress](https://wordpress.org) - view a live example here: https://e33.io
+a minimalistic blog theme for [WordPress](https://wordpress.org)
 
 
 ### Highlights and Details
